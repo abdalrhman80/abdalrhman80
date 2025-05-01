@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/abdalrhman-gamal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:abdalrhmangamel681@gmail.com" target="_blank">
+  <a href="mailto:abdalrhmangamal.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=201067377533&text&type=phone_number&app_absent=0" target="_blank">
