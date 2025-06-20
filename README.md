@@ -1,37 +1,26 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&width=435&lines=Hi+there%2C+I'm+Abdalrhman+Gamal;Backend+Developer" alt="Typing SVG" />
+</a>
 
-###
-<h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-  I'm Abdalrhman Gamal
-</h1>
-
-###
-
-<h2 align="center">I'm Backend Developer.</h2>
-
-
-### 📫 Contact with me :
-<div align="center">
+<p>
   <a href="https://www.linkedin.com/in/abdalrhman-gamal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:abdalrhmangamal.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=201067377533&text&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=201040313631" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/u/abdalrhman80" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="25" alt="linkedin logo"  />
+    <a href="https://abdalrhman80.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
-</div> 
+</p>
+
+</div>
 
 
-### 🛠 Language and tools :
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -57,6 +46,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
 </div>
+
+//<div align="center">
+
+//![C#](https://img.shields.io/badge/csharp-3776AB?style=for-the-badge&logo=csharp&logoColor=white)
+//![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+//![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+//![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+//![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+//</div>
 
 ###
 ###
