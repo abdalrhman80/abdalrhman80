@@ -59,8 +59,9 @@ I'm **Abdalrhman Gamal**, a Backend Developer passionate about crafting scalable
 
 | Area | Goals |
 |------|-------|
-| 🧱 **Backend Development** | - Scalable REST APIs<br>- Clean Architecture<br> |
-| 📦 **Data Management** | - Database design<br>- EF Core and SQL Server<br>- Data access patterns |
+| 🧱 **Backend Development** | - Scalable REST APIs using .NET<br>- Clean and maintainable codebases |
+| 🗃️ **Database Design** | - Optimize SQL queries<br>- Master EF Core<br>- Design relational schemas effectively |
+| 🧪 **Testing & Maintenance** | - Write unit/integration tests<br>- Ensure scalability & reliability<br>- Use tools like Postman, Swagger |
 
 </div>
 
