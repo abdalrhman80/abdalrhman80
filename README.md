@@ -1,19 +1,19 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&center=true&width=435&lines=Hi+there%2C+I'm+Abdalrhman+Gamal;Backend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&center=true&width=435&lines=Hi+there%2C+I'm+Abdalrhman+Gamal;Backend+Developer" alt="Typing SVG" /></a>
 <p>
-  <a href="mailto:abdalrhmangamal.dev@gmail.com">
+  <a href="mailto:abdalrhmangamal.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdalrhman-gamal/">
+  <a  href="https://www.linkedin.com/in/abdalrhman-gamal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=201040313631">
+  <a href="https://api.whatsapp.com/send/?phone=201040313631" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-  <a href="https://abdalrhman80.github.io/My-Portfolio/">
+  <a href="https://abdalrhman80.github.io/My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://leetcode.com/u/abdalrhman80/">
+  <a href="https://leetcode.com/u/abdalrhman80/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"/>
   </a>  
 </p>
