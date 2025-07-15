@@ -13,6 +13,9 @@
   <a href="https://abdalrhman80.github.io/My-Portfolio/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://leetcode.com/u/abdalrhman80/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode"/>
+  </a>  
 </p>
 
 </div>
