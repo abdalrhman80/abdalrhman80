@@ -10,7 +10,7 @@
   <a href="https://api.whatsapp.com/send/?phone=201040313631" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-  <a href="https://abdalrhman80.github.io/My-Portfolio/" target="_blank">
+  <a href="https://abdalrhmangamal.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   <a href="https://leetcode.com/u/abdalrhman80/" target="_blank">
